@@ -1,4 +1,4 @@
 This is for Shanghaitech CS181 Artificial Intelligence I
 
 This project series incrementally develops a fully autonomous Pac-Man agent from a weak rule-based system into a decision-making AI. Starting with logic and classical planning, the agent explicitly represents world states, action constraints, and goals to generate feasible plans. Bayesian networks are then introduced to enable probabilistic reasoning under uncertainty. In the Ghostbusters setting, these probabilistic models are extended to dynamic and partially observable environments, where the agent tracks invisible ghosts via Bayesian filtering and particle filters. Finally, reinforcement learning removes reliance on handcrafted rules and known models, allowing the agent to learn optimal policies through interaction and long-term reward optimization. 
-![](1.png)
+![](featured.png)
